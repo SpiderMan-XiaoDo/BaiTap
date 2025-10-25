@@ -1,0 +1,15 @@
+biến đổi công thức:
+
+a * (a+1) (a+2) * ....b
+
+= b!/(a-1)!
+
+
+Bây giờ:
+10 = 2 * 5. => Đếm số lượng cặp số 2, 5 xuất hiện trong biểu thức trên.
+
+
+=> Đếm số lượng số 2 trong biểu thức b! - số lượng số 2 trong (a-1)1
+tương tự cho số 5.
+
+
